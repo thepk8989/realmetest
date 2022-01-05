@@ -4,3 +4,21 @@ this is a specification of coding
 from windows 10
 updating from GUI
 thanks
+hey this is pankajj
+adding second code by just pushing into git 
+i have done git cloning into my newly installed ubantu software
+i am going to write here python command which i have been learnt yesterday
+
+here i am going o put a calcuator which do only addition
+
+print("hello i am a calculator\n i am going to do some additon for you")
+print("press yes to start me")
+num = input()
+print("kindly enter your first number")
+num2 = input()
+print("your second number please")
+num3 = input()
+print("here is your number", int(num2) + int(num3))
+
+end 
+
