@@ -21,4 +21,10 @@ num3 = input()
 print("here is your number", int(num2) + int(num3))
 
 end 
-
+thats good 
+i am updating this file from kali linux os
+i have also completed my chef learning
+i am doing this git update so that i do not forget about my git commands
+thats why just practicing my skills
+oday date is  jan 2022and the time is 15:04
+end 
